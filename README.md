@@ -49,8 +49,9 @@ This project fetches historical stock data, analyzes correlations, and uses Mont
 
 (Install with `pip install -r requirements.txt`)
 
-## Example Output
-
-![Efficient Frontier Example](example_efficient_frontier.png)
 
 ## Project Structure
+nifty50-portfolio-optimizer/
+├── Optimizer.ipynb
+├── requirements.txt
+├── README.md
